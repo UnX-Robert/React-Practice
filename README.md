@@ -25,3 +25,6 @@
 ### Changin Complex State
 - https://codesandbox.io/s/changing-complex-state-ozno0
 - https://codesandbox.io/s/changing-complex-state-practice-3iugq
+
+### Managing a Component Tree
+- https://codesandbox.io/s/managing-a-component-tree-8lfk0
