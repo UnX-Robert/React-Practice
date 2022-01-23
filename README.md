@@ -21,3 +21,7 @@
 
 ### Class components vs Hooks
 - https://codesandbox.io/s/class-components-vs-hooks-4nksd
+
+### Changin Complex State
+- https://codesandbox.io/s/changing-complex-state-ozno0
+- https://codesandbox.io/s/changing-complex-state-practice-3iugq
